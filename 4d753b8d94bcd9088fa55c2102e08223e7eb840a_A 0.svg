@@ -1,0 +1,44 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" height="566" width="838">
+ <ns0:g>
+  <ns0:title>Shapes</ns0:title>
+  <ns0:rect fill="#FFFFFF" height="49" stroke-width="0" width="104" x="4" y="310">
+   <ns0:animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </ns0:rect>
+  <ns0:rect fill="#FFFFFF" height="49" stroke-width="0" width="78" x="19" y="136">
+   <ns0:animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </ns0:rect>
+  <ns0:rect fill="#FFFFFF" height="50" stroke-width="0" width="169" x="258" y="4">
+   <ns0:animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </ns0:rect>
+  <ns0:rect fill="#FFFFFF" height="29" stroke-width="0" width="368" x="465" y="21">
+   <ns0:animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </ns0:rect>
+  <ns0:rect fill="#FFFFFF" height="27" stroke-width="0" width="116" x="719" y="168">
+   <ns0:animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </ns0:rect>
+  <ns0:rect fill="#FFFFFF" height="52" stroke-width="0" width="104" x="718" y="252">
+   <ns0:animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </ns0:rect>
+  <ns0:rect fill="#FFFFFF" height="36" stroke-width="0" width="103" x="718" y="337">
+   <ns0:animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </ns0:rect>
+  <ns0:rect fill="#FFFFFF" height="24" stroke-width="0" width="92" x="735" y="436">
+   <ns0:animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </ns0:rect>
+  <ns0:rect fill="#FFFFFF" height="27" stroke-width="0" width="60" x="635" y="517">
+   <ns0:animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </ns0:rect>
+  <ns0:rect fill="#FFFFFF" height="22" stroke-width="0" width="151" x="398" y="516">
+   <ns0:animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </ns0:rect>
+  <ns0:rect fill="#FFFFFF" height="20" stroke-width="0" width="57" x="324" y="533">
+   <ns0:animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </ns0:rect>
+  <ns0:rect fill="#FFFFFF" height="23" stroke-width="0" width="137" x="166" y="523">
+   <ns0:animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </ns0:rect>
+  <ns0:rect fill="#FFFFFF" height="48" stroke-width="0" width="121" x="14" y="483">
+   <ns0:animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </ns0:rect>
+ </ns0:g>
+</ns0:svg>

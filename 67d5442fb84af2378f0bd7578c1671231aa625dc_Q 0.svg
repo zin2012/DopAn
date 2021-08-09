@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="289" width="616">
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Shapes</title>
+  <rect fill="#FF0000" height="25.85034" id="question-element" stroke-width="0" width="112.2449" x="115.97278" y="253.1769">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="#FF0000" to="1" />
+  </rect>
+  <rect fill="#ffffff" height="29.2517" id="svg_3" stroke-width="0" width="138.09525" x="464.9524" y="181.74832">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+ </g>
+</svg>

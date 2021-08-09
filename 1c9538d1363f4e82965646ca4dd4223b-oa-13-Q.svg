@@ -1,0 +1,45 @@
+<svg height="598" width="714.0000000000001" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <defs>
+  <radialGradient id="svg_20" spreadMethod="pad">
+   <stop offset="0" stop-color="#2D2D2D"/>
+   <stop offset="1" stop-color="#d2d2d2"/>
+  </radialGradient>
+  <radialGradient id="svg_24" spreadMethod="pad">
+   <stop offset="0" stop-color="#2D2D2D"/>
+   <stop offset="1" stop-color="#d2d2d2"/>
+  </radialGradient>
+  <radialGradient id="svg_34" spreadMethod="pad">
+   <stop offset="0" stop-color="#2D2D2D"/>
+   <stop offset="1" stop-color="#d2d2d2"/>
+  </radialGradient>
+  <radialGradient cx="1" cy="0" id="svg_35" r="0.5" spreadMethod="pad">
+   <stop offset="0" stop-color="#2D2D2D"/>
+   <stop offset="1" stop-color="#d2d2d2"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <rect class="qshape" fill="#fc000e" height="21.79487" id="1c9538d1363f4e82965646ca4dd4223b-oa-13" stroke="#2D2D2D" width="55.12821" x="39.84618" y="226.35898">
+   <animate attributeName="opacity" begin="indefinite" class="qshape" dur="0.2" fill="#fc000e" to="1"/>
+  </rect>
+  
+  
+  
+ </g>
+</svg>

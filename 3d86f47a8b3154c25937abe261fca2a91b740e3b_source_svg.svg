@@ -1,0 +1,10 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" height="573" width="567">
+ <ns0:g>
+  <ns0:title>Shapes</ns0:title>
+  <ns0:rect fill="#ffffff" height="31" stroke-width="0" width="96" x="5" y="56" />
+  <ns0:rect fill="#ffffff" height="51" stroke-width="0" width="93" x="245" y="96" />
+  <ns0:rect fill="#ffffff" height="54" stroke-width="0" width="116" x="448" y="127" />
+  <ns0:rect fill="#ffffff" height="49" stroke-width="0" width="111" x="454" y="271" />
+  <ns0:rect fill="#ffffff" height="49" stroke-width="0" width="115" x="448" y="361" />
+ </ns0:g>
+</ns0:svg>

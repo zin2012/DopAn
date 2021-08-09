@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="514" width="906">
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Shapes</title>
+  <rect fill="#ffffff" height="25.31646" id="svg_2" stroke-width="0" width="159.49368" x="105.39242" y="10.05064">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+  <rect fill="#ffffff" height="21.51899" id="svg_3" stroke-width="0" width="172.15191" x="273.74686" y="12.58228">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+  <rect fill="#ffffff" height="20.25317" id="svg_4" stroke-width="0" width="67.08861" x="471.21522" y="15.11393">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+  <rect fill="#ffffff" height="22.78481" id="svg_5" stroke-width="0" width="150.63292" x="611.72156" y="13.84811">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+  <rect fill="#ffffff" height="48.10127" id="svg_6" stroke-width="0" width="143.03798" x="756.02537" y="156.88609">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+  <rect fill="#ffffff" height="24.05063" id="svg_7" stroke-width="0" width="124.05064" x="756.02537" y="260.68356">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+  <rect fill="#ffffff" height="18.98734" id="svg_9" stroke-width="0" width="100" x="467.41776" y="421.44306">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+  <rect fill="#ffffff" height="25.31646" id="svg_10" stroke-width="0" width="122.78482" x="297.7975" y="482.20256">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+  <rect fill="#ffffff" height="43.03798" id="svg_11" stroke-width="0" width="144.3038" x="9.18989" y="236.63293">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1" />
+  </rect>
+ </g>
+</svg>
